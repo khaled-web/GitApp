@@ -35,3 +35,7 @@ body {
   height: 20rem;
   overflow: scroll !important;
 }
+
+.img-fluid{
+  border-radius: 50%;
+}
